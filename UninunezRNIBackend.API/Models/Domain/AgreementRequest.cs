@@ -47,8 +47,10 @@ namespace UninunezRNIBackend.Models.Domain
         [JsonPropertyName("requestDate")]
         public DateTime RequestDate { get; set; } = DateTime.Today;
 
+        [Required]
         [JsonPropertyName("status")]
         public RequestStatus Status { get; set; } = RequestStatus.Pending;
+       
 
         [Required]
         [JsonPropertyName("observations")]
