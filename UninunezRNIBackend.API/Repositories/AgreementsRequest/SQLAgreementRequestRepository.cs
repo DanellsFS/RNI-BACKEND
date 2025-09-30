@@ -57,7 +57,7 @@ namespace UninunezRNIBackend.Repositories.AgreementsRequest
             existingRequest.ProposerPhone = agreementRequest.ProposerPhone;
             existingRequest.Position = agreementRequest.Position;
             existingRequest.Type = agreementRequest.Type;
-            existingRequest.ProposedOrgnization = agreementRequest.ProposedOrgnization;
+            existingRequest.ProposedOrganization = agreementRequest.ProposedOrganization;
             existingRequest.RequiresMembershipPayment = agreementRequest.RequiresMembershipPayment;
             existingRequest.MembershipPaymentAmount = agreementRequest.MembershipPaymentAmount;
             existingRequest.RequestDate = agreementRequest.RequestDate;

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UninunezRNIBackend.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d564e1f73c363f7b301bab55d5c35ca48537960")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc8c2b82c67a9670678a2ee2a49720f86d9f5d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("UninunezRNIBackend.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UninunezRNIBackend.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
